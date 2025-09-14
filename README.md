@@ -29,3 +29,5 @@ The timing in Morse code is based around the length of one “dot”
 - Word space (the gap between two words): 7 units
 
 In this project, 1 unit = 100ms (configureable in code)
+
+![Circuit diagram](diagram.png)
